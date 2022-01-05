@@ -1,0 +1,3 @@
+minecraft_directory: "/opt/minecraft"
+minecraft_user: "minecraft"
+minecraft_version: "latest"
